@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** [Leader's Name] (StudentID) - [GitHub URL]
-- **Member 2:** John Tamayo (101452155) - [GitHub](https://github.com/Ryu-JDT)
+- **Member 2:** John Darrell Tamayo (101452155) - [GitHub](https://github.com/Ryu-JDT)
 - **Member 3:** [Other Member's Name] (StudentID) - [GitHub URL]
 
 ## Project Description
