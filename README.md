@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** [Leader's Name] (StudentID) - [GitHub URL]
 - **Member 2:** John Darrell Tamayo (101452155) - [GitHub](https://github.com/Ryu-JDT)
-- **Member 3:** [Other Member's Name] (StudentID) - [GitHub URL]
+
 
 ## Project Description
 This repository hosts the group assignment for COMP3104, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
