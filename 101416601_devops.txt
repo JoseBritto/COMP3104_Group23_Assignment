@@ -1,5 +1,5 @@
-Some info about COMP3104 - Devops Course in GBC
+Some information about "COMP3104 - Devops" Course in GBC
 
-This course in George Brown College helps us familiarize with various devops pipelines and procedures.
+This course in George Brown College helps us familiarize with various devops concepts and procedures.
 We learn about git, CI/CD workflows and a lot more which are absolutely neccessary in the software developer industry today.
 
