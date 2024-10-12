@@ -1,5 +1,5 @@
 
-
+Importance of learning devops in sdlc
 
 Learning DevOps is crucial in the software development cycle. 
 It fosters collaboration between development and operations teams, leading to faster and more reliable software delivery. 
